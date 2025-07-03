@@ -1,6 +1,8 @@
 # DHCP - Diabetes Health Care Programme
 
 
+https://github.com/user-attachments/assets/0258686c-e5ae-4b4a-bc17-544706d8b1fc
+
 
 
 DHCP (Diabetes Health Care Programme) is a cutting-edge, all-in-one healthcare platform dedicated to managing diabetes and its related health impacts. Unlike traditional detection or prediction tools, DHCP harnesses the power of Generative AI (Gemini) to deliver intelligent, real-time insights and responses.
